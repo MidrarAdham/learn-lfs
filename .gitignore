@@ -1,3 +1,5 @@
 cosimulation/
 cosimulation.tar.*
 *.sha256
+cosimulation.tar.*
+*.sha256
