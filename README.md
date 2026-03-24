@@ -1,4 +1,4 @@
-graph TD
+```graph TD
     Start([Start: Main Execution]) --> Prep[Prepare Transformer Data]
     
     subgraph Data_Processing [Data Preparation Phase]
@@ -38,3 +38,4 @@ graph TD
     %% [3] bayesian_implementation core loop & posterior formulas
     %% [4] prepare_transformer_data, create_matrices
     %% [5] quantifying_error_metrics
+```
